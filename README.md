@@ -29,6 +29,10 @@ flutter build apk --release
 
 APK location:
 build/app/outputs/flutter-apk/app-release.apk
+
+## 👨‍💻 Developer
+Mohd Shamil MT
+
 ## 🔐 Login Credentials (For Testing)
 
 ```json
@@ -37,5 +41,4 @@ build/app/outputs/flutter-apk/app-release.apk
   "password": "Rabeeh@000"
 }
 
-## 👨‍💻 Developer
-Mohd Shamil MT
+
