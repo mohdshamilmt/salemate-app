@@ -1,17 +1,41 @@
-# post_data_to_api_sample
+# 📱 SaleMate App
 
-A new Flutter project.
+SaleMate is a Flutter-based mobile application integrated with REST APIs for user authentication and data handling. The app demonstrates login functionality, API integration, token management, and clean UI design.
 
-## Getting Started
+## 🚀 Features
+- User Login using API
+- Token-based authentication
+- API integration (GET & POST)
+- SharedPreferences for session management
+- Clean and responsive UI
+- Navigation between screens
+- Error handling for API responses
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter (Frontend)
+- Dart
+- REST API
+- SharedPreferences
+- HTTP package
 
-A few resources to get you started if this is your first Flutter project:
+## ▶️ How to Run
+1. Clone the repository  
+2. Run `flutter pub get`  
+3. Run `flutter run`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📦 Build APK
+Run:
+flutter build apk --release
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APK location:
+build/app/outputs/flutter-apk/app-release.apk
+## 🔐 Login Credentials (For Testing)
+
+```json
+{
+  "username": "Rabeeh@vk",
+  "password": "Rabeeh@000"
+}
+
+## 👨‍💻 Developer
+Mohd Shamil MT
